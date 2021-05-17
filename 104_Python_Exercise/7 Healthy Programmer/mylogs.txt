@@ -1,0 +1,22 @@
+Drank water at   2020-08-02 14:56:29.932543
+Rubbed his eyes at   2020-08-02 14:56:42.283789
+Exercise done at   2020-08-02 14:56:57.672485
+Drank water at   2020-08-02 14:57:36.619715
+Rubbed his eyes at   2020-08-02 14:58:12.864605
+Exercise done at   2020-08-02 14:58:54.050940
+Drank water at   2020-08-02 14:58:56.613303
+Drank water at   2020-08-02 17:06:44.076779
+Rubbed his eyes at   2020-08-02 17:06:50.186987
+Exercise done at   2020-08-02 17:07:05.434141
+Drank water at   2020-08-02 17:44:21.879195
+Rubbed his eyes at   2020-08-02 17:49:33.493792
+Exercise done at   2020-08-02 18:09:17.123595
+Drank water at   2020-08-02 18:19:37.908067
+Rubbed his eyes at   2020-08-02 18:29:58.627844
+Drank water at   2020-08-02 18:55:09.829403
+Exercise done at   2020-08-02 19:09:37.141735
+Rubbed his eyes at   2020-08-02 19:10:08.797501
+Drank water at   2020-08-08 20:33:17.880236
+Rubbed his eyes at   2020-08-08 20:38:07.764318
+Exercise done at   2020-08-08 20:58:13.209875
+Drank water at   2020-08-08 21:08:22.394051

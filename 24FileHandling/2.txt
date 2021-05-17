@@ -1,0 +1,7 @@
+I am a programmer
+I Knows Four Languages
+1.C
+2.C++
+3.Python
+4.JavaScript
+0123456789
