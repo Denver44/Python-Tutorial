@@ -1,0 +1,11 @@
+1  Python
+2  Javascript
+3  Django
+4  flask
+5  C
+6  C++
+7  HTML
+8  CSS
+9  DSA
+10  Andriod studio
+
